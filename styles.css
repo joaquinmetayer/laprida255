@@ -3,23 +3,19 @@ body {
     padding: 1em;
     box-sizing: border-box;
     font-family: 'Cormorant Garamond', serif;
-
     font-weight: 5px;
     background-color: #000;
     color: #fff;
     font-size: 1.25em;
     scroll-behavior: smooth;
 }
-
 #logo{
     display: flex;
     justify-content: center;
-    height: 40vh;
+    height: 25vh;
 }
 
-
 #description a, .data a{
-    text-decoration: none;
     color: rgb(255, 255, 255);
     font-style: italic;
 }
